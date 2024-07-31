@@ -60,12 +60,3 @@ To set up and use the biosensor:
    - Upload the code to the Arduino Nano.
    - Monitor the output on the LCD display.
 
-## Contributors
-
-- **Nakul C** (12200101024)
-- **Ashwin R Nair** (12200101004)
-- **Advisor**: Dr. Abdul Rasheed
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
