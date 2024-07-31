@@ -33,9 +33,14 @@ The biosensor utilizes the INA190 current shunt monitor for microampere measurem
 2. **INA219**: Used for measuring milliampere currents and displaying values on an LCD screen via Arduino Nano.
 3. **Arduino Nano & LCD**: Facilitates data acquisition and display.
 
+![INA219](./Images/INA219_Exp.jpeg)
+
 ## Experiment Results and Discussion
 
 The INA190 demonstrated reliable performance in the microampere range, while the INA219 successfully measured milliampere currents. Simulations confirmed the accuracy of these measurements, validating the biosensor's design.
+
+![INA219](./Images/INA190_Sim.jpeg)
+
 
 ## Conclusions and Future Work
 
