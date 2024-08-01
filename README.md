@@ -12,8 +12,6 @@ This project aims to develop a portable biosensor capable of accurately measurin
 4. [Experiment Results and Discussion](#experiment-results-and-discussion)
 5. [Conclusions and Future Work](#conclusions-and-future-work)
 6. [Installation and Usage](#installation-and-usage)
-7. [Contributors](#contributors)
-8. [License](#license)
 
 ## Introduction
 
